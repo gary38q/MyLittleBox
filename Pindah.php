@@ -1,3 +1,3 @@
 <?php echo "<script type='text/javascript'>;
-  window.location.replace('index.html');
+  window.location.replace('https://gary38q.github.io/RentalKuy/');
   </script>";?>
