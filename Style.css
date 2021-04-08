@@ -1,0 +1,158 @@
+body{
+    margin:0px;
+    /* background-color:#225199; */
+}
+
+.LogReg{
+        background-color:#225199;
+}
+
+.Logo{
+    width: 10%;
+    
+}
+
+.Sliders{
+    width: 100%;
+    background-color:#225199;
+}
+
+.Sliders a{
+    float: right;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color:#225199;
+    color: white;
+    text-decoration: none;
+}
+
+.Slide{
+    width: 100%;
+        height: 40%;
+        background-color:white;
+        border-style: solid;
+        border-color: whitesmoke;
+        border-radius: 20px;
+        text-align: center;
+        margin: auto;
+        position: absolute;
+        padding: 20px;
+        box-shadow: 5px 5px 5px whitesmoke;
+        font-size: large;
+}
+
+.Content{
+    margin-left: 20%;
+}
+
+.Produk{
+
+        text-align:center;
+        display:block;
+        margin-right: 10px;
+        background-color:white;
+        text-align: center;
+        float:left;
+        box-shadow: 5px 5px 5px whitesmoke;
+}
+.Produk img{
+    float: left;
+}
+
+.ProdukC{
+    width: 60%;
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:white;
+    /* float:left; */
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.ProdukD{
+    width: 60%;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    /* padding: 10%; */
+    background-color:white;
+    float:left;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.Checkout hr{
+    width: 60%;
+}
+
+.Bintang{
+    width: 50%;
+    margin-left: 28%;
+}
+
+.footer img{
+    width: 50px;
+}
+#Tulisan_Besars{
+    font-size: 30px;
+    text-align: left;
+}
+
+.Login_Form{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    width: 50%;
+    border: 2px solid black;
+    text-align: left;
+}
+
+hr{
+    border-color: #225199;
+}
+
+form{
+    text-align: left;
+}
+
+#Tulisan_Besar{
+    font-size: 30px;
+    text-align: left;
+}
+
+.Regis_Form{
+    background-color: white;
+    border: 2px solid black; 
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.butt img{
+    width: 30px;
+}
+
+.Login_Button{
+    text-align: left;
+}
+
+.Login_Button a{
+   text-decoration: none;
+   color: #38b6ff;
+}
+
+.Regis_Form hr{
+   border-color: #225199;
+}
+
+form{
+   text-align: left;
+}
+
+.footerLogReg img{
+    width: 50px;
+}
+.footerLogReg{
+    color: white;
+}
+
