@@ -1,0 +1,31 @@
+Prototype RentalKuy
+
+Server: 127.0.0.1 via TCP/IP
+Jenis server: MariaDB
+Koneksi server: SSL sedang tidak digunakan Dokumentasi
+Versi server: 10.4.14-MariaDB - mariadb.org binary distribution
+Versi protokol: 10
+Pengguna: root@localhost
+Kumpulan karakter server: UTF-8 Unicode (utf8mb4)
+
+Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.34
+Versi klien basis data: libmysql - mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+Ekstensi PHP: mysqli Dokumentasi curl Dokumentasi mbstring Dokumentasi
+Versi PHP: 7.2.34
+
+Database Menggunakan MySQL (XAMPP Control Panel v.3.2.4)
+
+Import MySQL menggunakan File: rentalkuy.xml
+
+tidak ada Email dan Password User yang saya sediakan
+Product Belum saya Upload
+
+Fitur - Fitur:
+Log in
+Registrasi
+Log out
+Profile
+Update Profile
+Log in untuk melakukan Add Product
+Semua User dapat Add Product dan Nama User Menjadi Nama Toko
+Checkout, Harga Product * Jumlah Hari (Max 7 Hari)
